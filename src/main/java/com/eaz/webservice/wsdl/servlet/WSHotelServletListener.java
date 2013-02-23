@@ -19,7 +19,7 @@ public class WSHotelServletListener implements ServletContextListener {
 
     @Override
     public void contextDestroyed(ServletContextEvent sce) {
-       
+
     }
     
 }

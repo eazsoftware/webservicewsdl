@@ -5,9 +5,12 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>WebServiceWSDL</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>WebServiceWSDL</h1>
+        <p>
+            <a href="/WebServiceWSDL/HotelService?wsdl">WebService WSDL file</a>
+        </p>
     </body>
 </html>
